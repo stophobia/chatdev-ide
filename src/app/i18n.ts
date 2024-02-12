@@ -86,7 +86,7 @@ const resources = {
       Upgrade: '升级',
       'This usually mean you need to add a payment method to your OpenAI account, checkout: ':
           '这通常意味着您需要在OpenAI账户中添加付款方式，请查看：',
-      'Welcome to ChatDev IDE! In game mode, how would you like us to address you?': '欢迎使用 ChatDev IDE！在游戏模式中，您希望我们怎么称呼您呢？',
+      'Welcome to Digital Label! In game mode, how would you like us to address you?': '欢迎使用 Digital Label！在游戏模式中，您希望我们怎么称呼您呢？',
       'Welcome, {player_name}! We are thrilled to have you on board. You can explore and define maps in game mode or customize your own GPTs to collaborate with NPCs.':'欢迎，{player_name}! 我们非常高兴您的加入，你可以在游戏模式下探索和定义地图，或者自定义你自己的 GPTs 来让 NPC 进行协作',
       "GPTs is already open. Please enter your requirements in the input box. ChatDev will automatically disassemble them and open the relevant roundtable meeting on the map according to the GPTs defined on the right.":"GPTs已经开启，请在输入框中输入您的需求。ChatDev将会根据右侧定义的GPTs，自动拆分需求并在地图上开启相关的圆桌会议。",
       "GPTs is already closed. You can continue to explore freely on the map and look for NPCs to interact with.": "GPTs已关闭，您可以继续在地图上自由探索，寻找NPC进行交流。",
@@ -182,7 +182,7 @@ const resources = {
       Upgrade: '升级',
       'This usually mean you need to add a payment method to your OpenAI account, checkout: ':
           '这通常意味着您需要在OpenAI账户中添加付款方式，请查看：',
-      'Welcome to ChatDev IDE! In game mode, how would you like us to address you?': '欢迎使用 ChatDev IDE！在游戏模式中，您希望我们怎么称呼您呢？',
+      'Welcome to Digital Label! In game mode, how would you like us to address you?': '欢迎使用 Digital Label！在游戏模式中，您希望我们怎么称呼您呢？',
       'Welcome, {player_name}! We are thrilled to have you on board. You can explore and define maps in game mode or customize your own GPTs to collaborate with NPCs.':'欢迎，{player_name}! 我们非常高兴您的加入，你可以在游戏模式下探索和定义地图，或者自定义你自己的 GPTs 来让 NPC 进行协作',
       "GPTs is already open. Please enter your requirements in the input box. ChatDev will automatically disassemble them and open the relevant roundtable meeting on the map according to the GPTs defined on the right.":"GPTs已经开启，请在输入框中输入您的需求。ChatDev将会根据右侧定义的GPTs，自动拆分需求并在地图上开启相关的圆桌会议。",
       "GPTs is already closed. You can continue to explore freely on the map and look for NPCs to interact with.": "GPTs已关闭，您可以继续在地图上自由探索，寻找NPC进行交流。",
@@ -210,7 +210,7 @@ const resources = {
       'Export/Import All Data': 'Alle Daten exportieren/importieren',
       'Data includes all your settings, chat histories, and local prompts':
           'Daten beinhalten alle Einstellungen, Chatverläufe und lokale Prompts',
-      'Welcome to ChatDev IDE! In game mode, how would you like us to address you?': 'Willkommen bei ChatDev IDE! Im Spielmodus, wie möchten Sie, dass wir Sie ansprechen?',
+      'Welcome to Digital Label! In game mode, how would you like us to address you?': 'Willkommen bei Digital Label! Im Spielmodus, wie möchten Sie, dass wir Sie ansprechen?',
       'Welcome, {player_name}! We are thrilled to have you on board. You can explore and define maps in game mode or customize your own GPTs to collaborate with NPCs.':'Willkommen, {player_name}! Wir freuen uns sehr über Ihre Teilnahme. Sie können im Spielmodus Karten erkunden und definieren oder Ihre eigenen GPTs anpassen, um mit NPCs zusammenzuarbeiten.',
       "GPTs is already open. Please enter your requirements in the input box. ChatDev will automatically disassemble them and open the relevant roundtable meeting on the map according to the GPTs defined on the right.":"GPTs ist bereits geöffnet. Bitte geben Sie Ihre Anforderungen im Eingabefeld ein. ChatDev wird sie automatisch gemäß dem auf der rechten Seite definierten GPTs zerlegen und auf der Karte die entsprechende Rundtischsitzung eröffnen.",
       "GPTs is already closed. You can continue to explore freely on the map and look for NPCs to interact with.": "GPTs ist bereits geschlossen. Sie können weiterhin frei auf der Karte erkunden und ,nach NPCs suchen, um Gespräche zu führen.",
@@ -236,7 +236,7 @@ const resources = {
       'Export/Import All Data': 'Exportar/Importar todos los datos',
       'Data includes all your settings, chat histories, and local prompts':
           'Los datos incluyen todas tus configuraciones, historiales de chat y promociones locales',
-      'Welcome to ChatDev IDE! In game mode, how would you like us to address you?': '¡Bienvenido a ChatDev IDE! En el modo de juego, ¿cómo le gustaría que le llamáramos?',
+      'Welcome to Digital Label! In game mode, how would you like us to address you?': '¡Bienvenido a Digital Label! En el modo de juego, ¿cómo le gustaría que le llamáramos?',
       'Welcome, {player_name}! We are thrilled to have you on board. You can explore and define maps in game mode or customize your own GPTs to collaborate with NPCs.':'¡Bienvenido, {player_name}! Estamos encantados de tenerte a bordo. Puedes explorar y definir mapas en el modo de juego o personalizar tus propios GPTs para colaborar con NPCs.',
       "GPTs is already open. Please enter your requirements in the input box. ChatDev will automatically disassemble them and open the relevant roundtable meeting on the map according to the GPTs defined on the right.":"El Flujo de Prompts ya está abierto. Por favor, ingrese sus requisitos en el cuadro de entrada. ChatDev los desmontará automáticamente y abrirá la reunión de mesa redonda correspondiente en el mapa según el Flujo de Prompts definido a la derecha.",
       "GPTs is already closed. You can continue to explore freely on the map and look for NPCs to interact with.": "El Flujo de Prompts ya está cerrado. Puede continuar explorando libremente en el mapa y ,buscar NPCs para interactuar.",
@@ -263,7 +263,7 @@ const resources = {
       'Export/Import All Data': 'Exporter/Importer toutes les données',
       'Data includes all your settings, chat histories, and local prompts':
           'Les données incluent tous vos paramètres, historiques de chat et invitations locales',
-      'Welcome to ChatDev IDE! In game mode, how would you like us to address you?': 'Bienvenue sur ChatDev IDE ! En mode jeu, comment aimeriez-vous que nous vous appelions ?',
+      'Welcome to Digital Label! In game mode, how would you like us to address you?': 'Bienvenue sur Digital Label ! En mode jeu, comment aimeriez-vous que nous vous appelions ?',
       'Welcome, {player_name}! We are thrilled to have you on board. You can explore and define maps in game mode or customize your own GPTs to collaborate with NPCs.':'Bienvenue, {player_name}! Nous sommes ravis de vous accueillir. Vous pouvez explorer et définir des cartes en mode jeu ou personnaliser vos propres GPTs pour collaborer avec des PNJ.',
       "GPTs is already open. Please enter your requirements in the input box. ChatDev will automatically disassemble them and open the relevant roundtable meeting on the map according to the GPTs defined on the right.":"Le Flux de Prompts est déjà ouvert. Veuillez entrer vos exigences dans la zone de saisie. ChatDev les désassemblera automatiquement et ouvrira la réunion de table ronde correspondante sur la carte selon le Flux de Prompts défini à droite.",
       "GPTs is already closed. You can continue to explore freely on the map and look for NPCs to interact with.": "Le Flux de Prompts est déjà fermé. Vous pouvez continuer à explorer librement sur la carte ,et chercher des PNJs avec qui interagir.",
@@ -340,7 +340,7 @@ const resources = {
       'Your Prompts': 'Prompt Anda',
       'Community Prompts': 'Prompt Komunitas',
       'Create new prompt': 'Buat prompt baru',
-      'Welcome to ChatDev IDE! In game mode, how would you like us to address you?': 'Selamat datang di ChatDev IDE! Dalam mode permainan, bagaimana Anda ingin kami menyebut Anda?',
+      'Welcome to Digital Label! In game mode, how would you like us to address you?': 'Selamat datang di Digital Label! Dalam mode permainan, bagaimana Anda ingin kami menyebut Anda?',
       'Welcome, {player_name}! We are thrilled to have you on board. You can explore and define maps in game mode or customize your own GPTs to collaborate with NPCs.':'Selamat datang, {player_name}! Kami sangat senang Anda bergabung. Anda dapat menjelajahi dan menentukan peta dalam mode permainan atau menyesuaikan GPTs Anda sendiri untuk berkolaborasi dengan NPC.',
       "GPTs is already open. Please enter your requirements in the input box. ChatDev will automatically disassemble them and open the relevant roundtable meeting on the map according to the GPTs defined on the right.":"GPTs sudah terbuka. Silakan masukkan kebutuhan Anda di kotak input. ChatDev akan secara otomatis membongkar mereka dan membuka pertemuan meja bundar yang relevan di peta sesuai dengan Flow Prompt yang didefinisikan di sebelah kanan.",
       "GPTs is already closed. You can continue to explore freely on the map and look for NPCs to interact with.": "GPTs sudah ditutup. Anda dapat terus menjelajahi peta dengan bebas dan mencari NPC ,untuk berinteraksi.",
@@ -438,7 +438,7 @@ const resources = {
       Upgrade: 'アップグレード',
       'This usually mean you need to add a payment method to your OpenAI account, checkout:':
         'これは通常、OpenAIアカウントに支払い方法を追加する必要があることを意味します。チェックアウト：',
-      'Welcome to ChatDev IDE! In game mode, how would you like us to address you?': 'ChatDev IDEへようこそ！ゲームモードでは、どのようにお呼びしましょうか？',
+      'Welcome to Digital Label! In game mode, how would you like us to address you?': 'Digital Labelへようこそ！ゲームモードでは、どのようにお呼びしましょうか？',
       'Welcome, {player_name}! We are thrilled to have you on board. You can explore and define maps in game mode or customize your own GPTs to collaborate with NPCs.':'ようこそ、{player_name}！私たちはあなたの参加を大変嬉しく思っています。ゲームモードで地図を探索したり定義したり、または独自のGPTsをカスタマイズしてNPCと協力することができます。',
       "GPTs is already open. Please enter your requirements in the input box. ChatDev will automatically disassemble them and open the relevant roundtable meeting on the map according to the GPTs defined on the right.":"GPTsは既に開かれています。入力ボックスに要件を入力してください。ChatDevはそれらを自動的に分解し、右側で定義されたGPTsに従って地図上で関連する円卓会議を開催します。",
       "GPTs is already closed. You can continue to explore freely on the map and look for NPCs to interact with.": "GPTsは既に閉じられています。マップ上で自由に探索し、NPCとの対話を探すことができます。",
@@ -465,7 +465,7 @@ const resources = {
       'Export/Import All Data': 'ส่งออก/นำเข้าข้อมูลทั้งหมด',
       'Data includes all your settings, chat histories, and local prompts':
         'ข้อมูลรวมถึงการตั้งค่าทั้งหมดของคุณ ประวัติการแชท และข้อความเตือนในเครื่อง',
-      'Welcome to ChatDev IDE! In game mode, how would you like us to address you?': 'ยินดีต้อนรับสู่ ChatDev IDE! ในโหมดเกม, คุณต้องการให้เราเรียกคุณว่าอย่างไร?',
+      'Welcome to Digital Label! In game mode, how would you like us to address you?': 'ยินดีต้อนรับสู่ Digital Label! ในโหมดเกม, คุณต้องการให้เราเรียกคุณว่าอย่างไร?',
       'Welcome, {player_name}! We are thrilled to have you on board. You can explore and define maps in game mode or customize your own GPTs to collaborate with NPCs.':'ยินดีต้อนรับ, {player_name}! เรามีความยินดีที่มีคุณร่วมทีม. คุณสามารถสำรวจและกำหนดแผนที่ในโหมดเกมหรือปรับแต่ง GPTs เพื่อร่วมงานกับ NPC ของคุณเองได้',
       "GPTs is already open. Please enter your requirements in the input box. ChatDev will automatically disassemble them and open the relevant roundtable meeting on the map according to the GPTs defined on the right.":"GPTs ถูกเปิดแล้ว โปรดป้อนความต้องการของคุณในกล่องข้อมูล ChatDev จะทำการถอดแยกและเปิดการประชุมโต๊ะกลมที่เกี่ยวข้องบนแผนที่โดยอัตโนมัติตาม Flow Prompt ที่กำหนดข้างขวา",
       "GPTs is already closed. You can continue to explore freely on the map and look for NPCs to interact with.": "GPTs ถูกปิดแล้ว คุณสามารถดำเนินการสำรวจบนแผนที่อย่างเสรีต่อและค้นหา NPC เพื่อโต้ตอบ",
@@ -491,7 +491,7 @@ const resources = {
       Import: '匯入',
       'Export/Import All Data': '匯出/匯入所有資料',
       'Data includes all your settings, chat histories, and local prompts': '資料包含所有設定、聊天紀錄和本地prompts',
-      'Welcome to ChatDev IDE! In game mode, how would you like us to address you?': '歡迎使用 ChatDev IDE！在遊戲模式中，您希望我們怎麼稱呼您呢？',
+      'Welcome to Digital Label! In game mode, how would you like us to address you?': '歡迎使用 Digital Label！在遊戲模式中，您希望我們怎麼稱呼您呢？',
       'Welcome, {player_name}! We are thrilled to have you on board. You can explore and define maps in game mode or customize your own GPTs to collaborate with NPCs.':'歡迎，{player_name}！我們非常高興您的加入，您可以在遊戲模式下探索和定義地圖，或者自定義您自己的 GPTs 來讓 NPC 進行協作。',
       "GPTs is already open. Please enter your requirements in the input box. ChatDev will automatically disassemble them and open the relevant roundtable meeting on the map according to the GPTs defined on the right.":"GPTs已經開啟，請在輸入框中輸入您的需求。ChatDev將根據右側定義的GPTs自動拆解需求，並在地圖上開啟相關的圓桌會議。",
       "GPTs is already closed. You can continue to explore freely on the map and look for NPCs to interact with.": "GPTs已關閉，您可以繼續在地圖上自由探索，尋找NPC進行交流。",

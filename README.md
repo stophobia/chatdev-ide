@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./screenshots/chatgpt_architecture.svg">
 </p>
-<h1 align="center">ChatDev IDE: Building Your AI Agent</h1>
+<h1 align="center">Digital Label: Building Your AI Agent</h1>
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 </div>
 
-ChatDev IDE is an integrated multiple large language model Chrome Extension, It consists of three parts: **Game Mode**、**Chat Mode** and **Prompt IDE**.
+Digital Label is an integrated multiple large language model Chrome Extension, It consists of three parts: **Game Mode**、**Chat Mode** and **Prompt IDE**.
 
 you can personalize these NPCs, customize the location's prompt, and build your GPTs with the visualize prompt editor, run GPTs let NPCs Multi-Persona Self-Collaboration.
 
