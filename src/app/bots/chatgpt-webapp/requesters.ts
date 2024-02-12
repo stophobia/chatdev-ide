@@ -23,12 +23,18 @@ class ProxyFetchRequester implements Requester {
         }
         return Browser.tabs.sendMessage(tab.id!, 'url').catch(() => undefined)
       }),
-    )
-    for (let i = 0; i < results.length; i++) {
-      if (results[i]?.startsWith('https://chat.openai.com')) {
-        return tabs[i]
+      )
+      for (let i = 0; i < results.length; i++) {
+        let url;
+        try {
+          url = new URL(results[i]);
+        } catch (_) {
+          continue;  // Not a valid URL, skip to the next iteration.
+        }
+        if (url.hostname === 'chat.openai.com') {
+          return tabs[i];
+        }
       }
-    }
   }
 
   waitForProxyTabReady(): Promise<Browser.Tabs.Tab> {
