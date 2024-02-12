@@ -1248,9 +1248,11 @@ var arkoseLabsClientApid975905a;
                 }
             },
             ee = function(e, t, n, r) {
-                e[R] && e[R][t] || Y(e, t), e[R][t][n] = r
-            },
-            te = ["logged"];
+                if (t === '__proto__') {
+                    throw new Error('Illegal argument: "__proto__"');
+                }
+                e[R] && e[R][t] || Y(e, t), e[R][t][n] = r;
+            }
 
         function ne(e) {
             return ne = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(e) {
